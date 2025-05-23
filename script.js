@@ -1,5 +1,5 @@
 const projects = [
-    {
+    { 
       title: "Repurposing Phoenix Offices to Industrial and Apartments",
     
       image: "images/office_conversion.png",
