@@ -1,13 +1,13 @@
 const projects = [
     {
       title: "Repurposing Phoenix Offices to Industrial and Apartments",
-      description: "An interactive story map showing Phoenix offices being converted.",
+    
       image: "images/office_conversion.png",
       link: "https://atlas.colliers.com/portal/apps/storymaps/stories/fa47e7901b4a42acbe40919e36fec81c"
     },
     {
       title: "Broker Case Study",
-      description: "A dashboard visualizing trend analysis for broker.",
+     
       image: "images/case_study.png",
       link: "https://atlas.colliers.com/portal/apps/dashboards/bbb99adbdfcc4537b080f148f1f937c9"
     },
