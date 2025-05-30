@@ -223,7 +223,7 @@ function displayProjects() {
         <div class="thumbnail-wrapper">
           <img src="${project.image}" alt="${project.title}">
           <div class="overlay">
-            <span>View Interactive</span>
+            
           </div>
         </div>
         <div class="content">
