@@ -104,7 +104,12 @@ header {
 .project-card img {
   width: 100%;
   height: auto;
+  padding: 12px 12px 0 12px;      /* Add top and side padding */
+  border-top-left-radius: 12px;   /* Match card corners */
+  border-top-right-radius: 12px;
+  object-fit: cover;
 }
+
 .project-card .content {
   padding: 20px;
 }
