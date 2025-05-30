@@ -262,17 +262,19 @@ function updatePaginationButtons() {
       pageButton.classList.add('active');
     }
 
-    pageButton.onclick = () => {
+  pageButton.onclick = () => {
   if (i !== currentPage) {
     currentPage = i;
     displayProjects();
 
-    const projectSection = document.getElementById('projects');
-
-    // Always scroll to the chart area
     setTimeout(() => {
-      projectSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    }, 300); // Delay matches your fade transition
+      const offset = 80; // adjust if needed
+      const targetPosition = document.getElementById('projects-section').offsetTop;
+      window.scrollTo({
+        top: targetPosition - offset,
+        behavior: 'smooth'
+      });
+    }, 300); // wait until fade-in finishes
   }
 };
 
