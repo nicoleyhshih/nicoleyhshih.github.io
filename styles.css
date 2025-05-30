@@ -4,11 +4,11 @@
   --bg-default: #fdfcf9;
   --bg-projects: #f0f5f0;
   --card-bg: #ffffff;
-  --green-header: #9c9f64;
-  --orange-accent: #e4b07e;
+  --green-header: #406d27;
+  --orange-accent: #db7617;
   --orange-hover: #d89c65;
-  --text-color: #4e433f;
-  --border-light: #e3dcd4;
+  --text-color: #25201e;
+  
 }
 
 body {
@@ -23,9 +23,9 @@ body {
 
 /* Typography */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Gloock', serif;
+  font-family: 'Gill Sans Extrabold', serif;
   font-weight: 550;
-  letter-spacing: 0.8px;
+  letter-spacing: 0.5px;
   color: var(--green-header);
 }
 
@@ -115,7 +115,7 @@ header {
 }
 .project-card p {
   font-size: 1rem;
-  color: #6b6057;
+
 }
 .project-card a {
   margin-top: auto;
