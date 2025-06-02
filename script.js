@@ -7,7 +7,7 @@ const projects = [
 },
 {
   title: "Broker Case Study",
-  description: "A dashboard visualizing trend analysis for broker.",
+  description: "A dashboard visualizing trend analysis for brokers. In response to a broker's request, I provided an analysis for a client interested in purchasing land. The dashboard highlights nearby property sectors and key factors such as the total square footage of developments within a specified distance.",
   image: "images/case_study.png",
   link: "https://atlas.colliers.com/portal/apps/dashboards/bbb99adbdfcc4537b080f148f1f937c9"
 },
