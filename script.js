@@ -1,7 +1,7 @@
 const projects = [
     {
   title: "Repurposing Phoenix Offices to Industrial and Apartments",
-  description: "An interactive story map showing Phoenix offices being converted.",
+  description: "An interactive story map highlights how Phoenix office spaces are being converted into industrial, apartments, retail, and other uses. Data shows that nearly 70% of the repurposed office space has been transformed into industrial facilities, data centers, or self-storage.",
   image: "images/office_conversion.png",
   link: "https://atlas.colliers.com/portal/apps/storymaps/stories/fa47e7901b4a42acbe40919e36fec81c"
 },
