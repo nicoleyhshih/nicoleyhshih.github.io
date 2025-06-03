@@ -1,19 +1,19 @@
 const projects = [
     {
   title: "Repurposing Phoenix Offices to Industrial and Apartments",
-  description: "An interactive story map showing Phoenix offices being converted.",
+  description: "An interactive story map highlighting how office properties across Phoenix are being transformed into industrial, multifamily, retail, and other uses. Nearly 70% of these conversions have shifted toward industrial uses, including data centers and self-storage facilities.",
   image: "images/office_conversion.png",
   link: "https://atlas.colliers.com/portal/apps/storymaps/stories/fa47e7901b4a42acbe40919e36fec81c"
 },
 {
   title: "Broker Case Study",
-  description: "A dashboard visualizing trend analysis for broker.",
+  description: "A dashboard visualizing market trends to support a broker’s land acquisition case. It includes analysis of surrounding property types, square footage within specific distance ranges, and other key insights to help the broker and client make informed investment decisions.",
   image: "images/case_study.png",
   link: "https://atlas.colliers.com/portal/apps/dashboards/bbb99adbdfcc4537b080f148f1f937c9"
 },
 {
   title: "Phoenix CRE Market Analysis",
-  description: "An in-depth article on Phoenix's commercial real estate investment trends.",
+  description: "An in-depth article analyzing commercial real estate investment trends across Phoenix, helping investors identify hot spots and high-growth areas within each property sector.",
   image: "images/investment.png",
   link: "investment.html"  // local link
 },
