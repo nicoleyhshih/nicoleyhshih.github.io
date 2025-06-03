@@ -51,7 +51,7 @@ const projects = [
     title: "EV Battery Visualization",
     description: "An interactive map visualizing electric vehicle battery capacity, distribution, and performance metrics.",
     image: "images/mapbox_EV.gif",
-    link: "https://nicoshih.github.io/EV_battery/"
+    link: "https://nicoleyhshih.github.io/EV_battery/"
   },
   {
     title: "Regional Dutch Bros Coffee Chain Brews Up National Expansion",
