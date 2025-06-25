@@ -101,18 +101,19 @@ const projects = [
     image: "images/soccer2.png",
     link: "https://www.costar.com/article/279444222/the-world-cup-of-property-china-and-us-dominate-but-uk-beats-us-in-final"
   },
+     {
+    title: "People Leaving Illinois’ Largest County Could Benefit Chicago",
+    description: "An analysis of recent migration trends in Illinois reveals that while many counties—especially Cook—are losing residents due to high taxes and housing costs, nearby collar counties like Kendall and McHenry are gaining population, potentially strengthening the greater Chicago region through expanded economic activity and shifting demographics.",
+    image: "images/illinois.png",
+    link: "https://www.costar.com/article/285455822/people-leaving-illinois-largest-county-could-benefit-chicago?utm_campaign=news&utm_content=top_destinations_for_peop&utm_medium=social&utm_source=twitter&utm_term=news"
+  },
   {
     title: "Workplace Survey Finds Three-Day Office Schedules Reign",
     description: "Survey results highlighting the prevalence of three-day in-office work schedules within hybrid models.",
     image: "images/wfh.png",
     link: "https://www.costar.com/article/1493751318/workplace-survey-finds-three-day-office-schedules-reign-as-hybrid-option"
   },
-    {
-    title: "People Leaving Illinois’ Largest County Could Benefit Chicago",
-    description: "An analysis of recent migration trends in Illinois reveals that while many counties—especially Cook—are losing residents due to high taxes and housing costs, nearby collar counties like Kendall and McHenry are gaining population, potentially strengthening the greater Chicago region through expanded economic activity and shifting demographics.",
-    image: "images/illinois.png",
-    link: "https://www.costar.com/article/285455822/people-leaving-illinois-largest-county-could-benefit-chicago?utm_campaign=news&utm_content=top_destinations_for_peop&utm_medium=social&utm_source=twitter&utm_term=news"
-  },
+   
   {
     title: "More Than 16,000 NYC Hotel Rooms Used to Accommodate Unhoused Migrants",
     description: "An exposé on New York City repurposing over 16,000 hotel rooms to house unhoused migrants.",
