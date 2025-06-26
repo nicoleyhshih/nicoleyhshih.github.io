@@ -126,6 +126,14 @@ const projects = [
     image: "images/railmap.png",
     link: "https://www.costar.com/article/2079666152/federal-government-awards-billions-of-dollars-in-grants-for-passenger-rail-projects-nationwide"
   },
+
+{
+    title: "Retail Hubs Bringing Big Crowds Also Attract Mass Shooters",
+    description: "Mass shootings are increasingly targeting busy retail hubs, as seen in the Allen Premium Outlets case, which remained closed for nearly a month after a deadly attack.",
+    image: "images/dots.png",
+    link: "https://nicoleyhshih.github.io/mass-shooting-scrolly/"
+  },
+    
   {
     title: "Real Estate Stocks Improve but Offer Negative Return in First Five Months of 2023",
     description: "An overview of real estate stock performance showing improvement despite negative returns early in 2023.",
