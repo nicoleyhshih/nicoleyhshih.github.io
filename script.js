@@ -129,7 +129,7 @@ const projects = [
 
 {
     title: "Retail Hubs Bringing Big Crowds Also Attract Mass Shooters",
-    description: "Mass shootings are increasingly targeting busy retail hubs, as seen in the Allen Premium Outlets case, which remained closed for nearly a month after a deadly attack.",
+    description: "A scrollytelling interactive story reveals how crowded retail hubs like Allen Premium Outlets have become frequent targets for mass shootings, leading to lasting community and economic impacts.",
     image: "images/dots.png",
     link: "https://nicoleyhshih.github.io/mass-shooting-scrolly/"
   },
