@@ -2,7 +2,7 @@ const projects = [
     {
   title: "Repurposing Phoenix Offices to Industrial and Apartments",
   description: "An interactive story map highlighting how office properties across Phoenix are being transformed into industrial, multifamily, retail, and other uses. Nearly 70% of these conversions have shifted toward industrial uses, including data centers and self-storage facilities.",
-  image: "images/office_conversion.png",
+  image: "images/conversion.gif",
   link: "https://atlas.colliers.com/portal/apps/storymaps/stories/fa47e7901b4a42acbe40919e36fec81c"
 },
 {
