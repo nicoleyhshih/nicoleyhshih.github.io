@@ -12,12 +12,6 @@ const projects = [
   link: "https://atlas.colliers.com/portal/apps/dashboards/bbb99adbdfcc4537b080f148f1f937c9"
 },
 {
-  title: "Phoenix CRE Market Analysis",
-  description: "An in-depth article analyzing commercial real estate investment trends across Phoenix, helping investors identify hot spots and high-growth areas within each property sector.",
-  image: "images/investment.png",
-  link: "investment.html"  // local link
-},
-{
   title: "Employees Living Farther Away Signals Office Market Recovery Challenge",
   description: "An article exploring how employees living farther from work locations are signaling challenges for office market recovery.",
   image: "images/dot.gif",
@@ -46,12 +40,6 @@ const projects = [
     description: "A report examining gradual ridership recoveries on the New York Subway and London Underground post-pandemic.",
     image: "images/subway.png",
     link: "https://www.costar.com/article/199367457/new-york-subway-and-london-underground-stage-a-comeback-slowly"
-  },
-  {
-    title: "EV Battery Visualization",
-    description: "An interactive map visualizing electric vehicle battery capacity, distribution, and performance metrics.",
-    image: "images/mapbox_EV.gif",
-    link: "https://nicoleyhshih.github.io/EV_battery/"
   },
   {
     title: "Regional Dutch Bros Coffee Chain Brews Up National Expansion",
@@ -308,3 +296,4 @@ function updatePaginationButtons() {
 
 // Initial load
 displayProjects();
+
