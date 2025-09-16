@@ -1,4 +1,12 @@
 const projects = [
+
+{
+  title: "Loop 101 Corridor Powers North Phoenix Growth",
+  description: "An interactive story map showcasing how the Loop 101 corridor is driving North Phoenix’s growth, with new developments in office, industrial, retail, and multifamily sectors.",
+  image: "images/loop101.gif",
+  link: "https://colliersaz.github.io/Loop101/"
+},
+    
     {
   title: "Repurposing Phoenix Offices to Industrial and Apartments",
   description: "An interactive story map highlighting how office properties across Phoenix are being transformed into industrial, multifamily, retail, and other uses. Nearly 70% of these conversions have shifted toward industrial uses, including data centers and self-storage facilities.",
@@ -296,4 +304,5 @@ function updatePaginationButtons() {
 
 // Initial load
 displayProjects();
+
 
