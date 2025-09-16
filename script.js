@@ -2,7 +2,7 @@ const projects = [
 
 {
   title: "Loop 101 Corridor Powers North Phoenix Growth",
-  description: "An interactive story map showcasing how the Loop 101 corridor is driving North Phoenix’s growth, with new developments in office, industrial, retail, and multifamily sectors.",
+  description: "An interactive story map highlighting how the Loop 101 corridor, stretching from 51st Street to Pima Road, is powering growth across North Phoenix. This corridor has become a hub for large-scale office, industrial, multifamily, and retail development, with new projects reshaping the region’s economic and real estate landscape.",
   image: "images/loop101.gif",
   link: "https://colliersaz.github.io/Loop101/"
 },
@@ -304,5 +304,6 @@ function updatePaginationButtons() {
 
 // Initial load
 displayProjects();
+
 
 
