@@ -183,3 +183,12 @@ header {
     font-size: 2rem;
   }
 }
+
+.navbar-brand {
+  font-family: 'Gloock', serif;
+  font-size: 1.8rem;
+  color: #D8731E !important;  /* bright red */
+  letter-spacing: 1px;        /* optional: spacing between letters */
+}
+
+
